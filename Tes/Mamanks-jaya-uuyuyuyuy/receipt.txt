@@ -1,0 +1,44 @@
+===== Nota Pemesanan =====
+Nama Pembeli: fff
+Jam Penayangan: 12:00
+Nama Film: Kimi No Nawa
+Kursi Terpilih: Kursi 1 Kursi 3 Kursi 4 ===== Nota Pemesanan =====
+Nama Pembeli: fff
+Jam Penayangan: 15:00
+Nama Film: Spiderman Home Coming
+Kursi Terpilih: Kursi 45 Kursi 47 
+===== Nota Pemesanan =====
+Nama Pembeli: Mamanks
+Jam Penayangan: 15:00
+Nama Film: Kimi No Nawa
+Kursi Terpilih: Kursi 4 Kursi 24 
+===== Nota Pemesanan =====
+Nama Pembeli: fff
+Jam Penayangan: 12:00
+Nama Film: Spirited Away
+Kursi Terpilih: Kursi 66 Kursi 67 
+===== Nota Pemesanan =====
+Nama Pembeli: fff
+Jam Penayangan: 12:00
+Nama Film: Spiderman Home Coming
+Kursi Terpilih: Kursi 1 Kursi 2 
+===== Nota Pemesanan =====
+Nama Pembeli: asda
+Jam Penayangan: 12:00
+Nama Film: Spiderman Home Coming
+Kursi Terpilih: 
+===== Nota Pemesanan =====
+Nama Pembeli: dasasd
+Jam Penayangan: 12:00
+Nama Film: Spiderman Home Coming
+Kursi Terpilih: Kursi 68 Kursi 69 
+===== Nota Pemesanan =====
+Nama Pembeli: ff
+Jam Penayangan: 12:00
+Nama Film: Spiderman Home Coming
+Kursi Terpilih: Kursi 64 Kursi 66 Kursi 68 Kursi 69 
+===== Nota Pemesanan =====
+Nama Pembeli: ff
+Jam Penayangan: 12:00
+Nama Film: Kimi No Nawa
+Kursi Terpilih: Kursi 46 

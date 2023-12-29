@@ -1,0 +1,12 @@
+
+===== Nota Pemesanan =====
+Nama Pembeli: Elang
+Jam Penayangan: 12:00
+Nama Film: Kimi No Nawa
+Kursi Terpilih: Kursi 2 Kursi 3 
+
+===== Nota Pemesanan =====
+Nama Pembeli: ASDASD
+Jam Penayangan: 12:00
+Nama Film: Kimi No Nawa
+Kursi Terpilih: Kursi 12 Kursi 13 
